@@ -1,5 +1,16 @@
 https://gist.github.com/debakarr/533e4140314bc252f04b04afc02dd20c
 
+01-Ultimate Certified Kubernetes Application Developer CKAD Mock Exam Series
+? Lab
+
+02-GCP DevOps Project
+https://kodekloud.com/wp-content/uploads/2023/03/GCP-DevOps-project.pdf
+
+03-12 Factor App
+https://kodekloud.com/wp-content/uploads/2023/03/12-Factor-App.pdf
+
+
+
 - Docker Training Course for the Absolute Beginner
   - [Docker-for-Beginners-Mumshad-Mannambeth.pdf](https://kodekloud.com/wp-content/uploads/2021/10/Docker-for-Beginners-Mumshad-Mannambeth.pdf)
 - Kustomize
