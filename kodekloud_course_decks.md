@@ -9,6 +9,12 @@ https://kodekloud.com/wp-content/uploads/2023/03/GCP-DevOps-project.pdf
 03-12 Factor App
 https://kodekloud.com/wp-content/uploads/2023/03/12-Factor-App.pdf
 
+04-AZ-305: Microsoft Azure Solutions Architect Expert
+https://kodekloud.com/courses/ultimate-certified-kubernetes-administrator-cka-mock-exam/
+
+05-Certified Kubernetes Administrator – Full Mock Exam Series
+
+
 
 
 - Docker Training Course for the Absolute Beginner
