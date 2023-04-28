@@ -1,5 +1,9 @@
 https://gist.github.com/debakarr/533e4140314bc252f04b04afc02dd20c
 
+14-ArgoCD
+https://kodekloud.com/wp-content/uploads/2022/12/ArgoCD.pdf
+https://github.com/sidd-harth/gitops-argocd
+
 01-Ultimate Certified Kubernetes Application Developer CKAD Mock Exam Series
 ? Lab
 
