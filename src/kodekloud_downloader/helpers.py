@@ -28,10 +28,15 @@ def select_course(courses: List[Course]) -> Course:
 
     print(table)
 
-    selected_course = input("Enter the number of the course you want to select: ")
-    course = courses[int(selected_course) - 1]
-
-    return course
+    selected_courses = input("Enter the number of the course you want to select: ")
+    if selected_courses:
+        selected_courses = [i for i in selected_courses.replace(" ", "").split(",") if i]
+        return_courses = list()
+        for item in selected_courses:
+            return_courses.append(courses[int(item) - 1])
+    else:
+        return_courses = course
+    return return_courses
 
 
 def normalize_name(name: str) -> str:

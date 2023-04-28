@@ -47,13 +47,14 @@ def kodekloud(verbose):
 def dl(course_url, quality: str, output_dir: Union[Path, str], cookie):
     if course_url is None:
         courses = get_all_course()
-        selected_course = select_course(courses)
-        download_course(
-            url=selected_course.link,
-            cookie=cookie,
-            quality=quality,
-            output_dir=output_dir,
-        )
+        selected_courses = select_course(courses)
+        for selected_course in selected_courses:
+            download_course(
+                url=selected_course.link,
+                cookie=cookie,
+                quality=quality,
+                output_dir=output_dir,
+            )
     elif validators.url(course_url):
         download_course(
             url=course_url, cookie=cookie, quality=quality, output_dir=output_dir
